@@ -23,8 +23,7 @@ RESUME
  
  
  
- ##### 활동사진
- 
+ ![내사진](안재현.jpg)
  
  
  [1]:http://www.coupang.com
